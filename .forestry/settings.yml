@@ -4,6 +4,18 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: СХЕМА РАБОТЫ
+- type: heading
+  label: ЗВЕЗДЫ
+- type: heading
+  label: ПРОБЛЕМЫ МОДЕЛЕЙ
+- type: heading
+  label: О НАС
+- type: heading
+  label: ТРЕБОВАНИЯ К МОДЕЛИ
+- type: heading
+  label: FAQ
 - type: document
   path: README-FORESTRY.md
   label: Help
