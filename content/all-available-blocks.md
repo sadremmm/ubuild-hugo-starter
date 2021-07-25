@@ -16,8 +16,8 @@ link_text = "ЗВЕЗДЫ"
 link_url = "/"
 open_in_new_tab = false
 [[page_sections.navigation]]
-link_text = "GitHub"
-link_url = "https://github.com"
+link_text = "ПРОБЛЕМЫ МОДЕЛЕЙ"
+link_url = ""
 open_in_new_tab = true
 [[page_sections]]
 block = "header-2"
