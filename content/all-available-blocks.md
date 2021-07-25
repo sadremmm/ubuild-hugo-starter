@@ -19,6 +19,22 @@ open_in_new_tab = false
 link_text = "ПРОБЛЕМЫ МОДЕЛЕЙ"
 link_url = ""
 open_in_new_tab = true
+[[page_sections.navigation]]
+link_text = "О НАС"
+link_url = ""
+open_in_new_tab = false
+[[page_sections.navigation]]
+link_text = "ТРЕБОВАНИЯ К МОДЕЛИ"
+link_url = ""
+open_in_new_tab = false
+[[page_sections.navigation]]
+link_text = "FAQ"
+link_url = ""
+open_in_new_tab = false
+[[page_sections.navigation]]
+link_text = "Заполнить Анкету!"
+link_url = ""
+open_in_new_tab = false
 [[page_sections]]
 block = "header-2"
 logo = "/uploads/2018/06/21/forestry-full.svg"
